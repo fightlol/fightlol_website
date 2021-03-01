@@ -63,9 +63,14 @@ ul li :active a{
     font-size: 150px;
 }
 
+.title h3{
+    color: #fff;
+    font-size: 50px;
+}
+
 .button{
     position: absolute;
-    top: 62%;
+    top: 67%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -76,6 +81,7 @@ ul li :active a{
     color: #fff;
     text-decoration: none;
     transition: 0.6s ease;
+    
 }
 
 .btn:hover{
